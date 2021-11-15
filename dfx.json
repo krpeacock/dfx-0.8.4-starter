@@ -24,7 +24,6 @@
       "packtool": ""
     }
   },
-  "dfx": "0.8.3-33-gde15c888",
   "networks": {
     "local": {
       "bind": "127.0.0.1:8000",
